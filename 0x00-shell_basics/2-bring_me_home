@@ -1,2 +1,2 @@
 #!/bin/bash
-Changed working directory to: $(pwd)
+Changed working directory to
