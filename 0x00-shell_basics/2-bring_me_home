@@ -1,1 +1,2 @@
+#!/bin/bash
 Changed working directory to: $(pwd)
